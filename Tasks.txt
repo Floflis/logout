@@ -1,0 +1,10 @@
+Alternative command that sources: log-out and logoff
+
+Detect Cinnamon, then: cinnamon-session-quit --logout --force
+
+Also, support to:
+- KDE
+- Gnome
+- MATE
+- XFCE
+- If not GUI, use exit
